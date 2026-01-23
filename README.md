@@ -30,5 +30,5 @@ Bu çalışma sonucunda, yüksek güvenlikli ve sıfır maliyetli bir veri trans
 ![](explanation_1.png)
 ![](explanation_2.png)
 ![](explanation_3.png)
-![](explanation_4.png)
+![](AWS-Secure-Cost-Optimized-S3-Connectivity.drawio.png)
 
