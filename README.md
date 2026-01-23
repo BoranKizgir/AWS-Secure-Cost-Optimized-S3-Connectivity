@@ -26,3 +26,9 @@ Trafik AWS'nin kendi fiber ağı üzerinden geçtiği için daha düşük gecikm
 
 ## Sonuç
 Bu çalışma sonucunda, yüksek güvenlikli ve sıfır maliyetli bir veri transfer hattı başarıyla kurulmuştur.
+
+![](explanation_1.png)
+![](explanation_2.png)
+![](explanation_3.png)
+![](explanation_4.png)
+
